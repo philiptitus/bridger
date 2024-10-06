@@ -149,7 +149,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## 🔒 Security
 
-For any security concerns, please contact me at [philip@example.com](mailto:mrphilipowade@gmail.com). I take security seriously and appreciate any vulnerabilities being reported responsibly.
+For any security concerns, please contact me at [by mail](mailto:mrphilipowade@gmail.com). I take security seriously and appreciate any vulnerabilities being reported responsibly.
 
 ---
 
